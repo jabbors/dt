@@ -5,7 +5,7 @@ dt is a command line tool to aid transforming durations (typically Golang printe
 ## Installation
 
 ```
-go get github.com/jabbors/dt
+go install github.com/jabbors/dt@latest
 ```
 
 ## Example use case
